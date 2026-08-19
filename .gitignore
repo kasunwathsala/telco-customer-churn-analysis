@@ -34,3 +34,6 @@ Thumbs.db
 
 # Environment variables (if you add any secrets later)
 .env
+
+# CatBoost training logs
+catboost_info/
